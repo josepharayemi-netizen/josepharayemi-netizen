@@ -16,6 +16,16 @@ My work focuses on turning business problems into reliable systems with clear ar
 | [Multi-Cloud Security Compliance Scanner](https://github.com/josepharayemi-netizen/multicloud-security-scanner) | AWS/Azure security assessment, CIS/NIST mappings, evidence and remediation |
 | [Enterprise AI Knowledge Assistant](https://github.com/josepharayemi-netizen/enterprise-ai-knowledge-assistant) | Secure RAG, citations, access control, prompt-injection defense and evaluation |
 
+## Selected publications
+
+1. **Secure and Responsible Retrieval-Augmented Generation for Resource-Constrained Organizations: A Multi-Cloud Reference Architecture and Experimental Evaluation**  
+   [Technical report DOI](https://doi.org/10.5281/zenodo.23048250) · [Software DOI](https://doi.org/10.5281/zenodo.23045245) · [GitHub repository](https://github.com/josepharayemi-netizen/enterprise-genai-rag-platform)
+
+2. **AgentGuardBench: A Multilingual Benchmark for Privacy, Security and Responsible Behaviour in AI Agents: Design and Deterministic Baseline Evaluation**  
+   [Technical report DOI](https://doi.org/10.5281/zenodo.23132194) · [Software DOI](https://doi.org/10.5281/zenodo.23127436) · [GitHub repository](https://github.com/josepharayemi-netizen/agentguardbench)
+
+Citation metadata for these works is available in [publications.bib](publications.bib).
+
 ## Core technologies
 
 **Cloud:** AWS, Microsoft Azure, Google Cloud  
